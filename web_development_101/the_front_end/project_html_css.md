@@ -90,6 +90,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
+* [l1vefree's Solution (Easy)](https://github.com/l1vefree/Google-Replica)- [View in Browser](https://l1vefree.github.io/Google-Replica/)
 * [alexnorris's Solution (Easy)](https://github.com/AlexNorris/alexnorris.github.io)- [View in Browser](https://alexnorris.github.io)
 * [Randyfoo07's Solution (Difficult)](https://github.com/RandyFoo07/google-search-results-page) - [View in Browser](https://randyfoo07.github.io/google-search-results-page/)
 * [hectorgarcia07's Solution(Easy)](https://github.com/hectorgarcia07/google-homepage)- [View in Browser](https://hectorgarcia07.github.io/google-homepage/)
